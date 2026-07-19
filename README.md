@@ -15,11 +15,6 @@ The objective of this project is to transform subscription data into actionable 
 - Power Query
 - DAX
 
----
-
-## Dashboard Preview
-
-![Dashboard](Images/Dashboard.png)
 
 ---
 
